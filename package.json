@@ -1,0 +1,8 @@
+{
+  "name": "loop-engine-e2e-testbed",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node testbed/index.test.js"
+  }
+}
